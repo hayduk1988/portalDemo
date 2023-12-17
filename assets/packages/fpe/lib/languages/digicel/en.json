@@ -1,0 +1,8 @@
+{
+    "download_receipt": "Download Receipt",
+    "Email_to_send_receipt": "Type email to send Receipt",
+    "email_receipt": "Email Receipt",
+    "print_receipt": "Print Receipt",
+    "Receipt_print_failure": "Failed to print the Receipt",
+    "Save_to_templates": "Add to Favourites"
+}
